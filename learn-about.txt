@@ -1,0 +1,18 @@
+# OSU Email: matafe@oregonstate.edu
+# Course: CS361 - Software Engineering I
+# Assignment: Course Project
+
+# Creator:
+
+Fernando D. Mata
+Oregon State University Student
+
+
+
+# Latest Version Updates
+
+Version 1.0.0:
+    - Created Main Menu
+    - Created ATP Player Menu
+    - Added draft FAQ and Learn About documentation for users to open.
+    - Enabled User to navigate back and forth between menus.
